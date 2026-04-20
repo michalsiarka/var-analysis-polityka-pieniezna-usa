@@ -3,7 +3,7 @@
 ## Project Overview
 This project was developed as a final assignment for the **Dynamic Econometrics** (Ekonometria Dynamiczna) course. It is now part of my professional portfolio to demonstrate my skills in time-series analysis, econometric modeling, and economic data interpretation.
 
-[cite_start]The study focuses on analyzing the macroeconomic response to unexpected changes (shocks) in the United States' monetary policy. Using monthly data from 1985 to 2024, the project empirically verifies the transmission mechanism of the Federal Reserve (Fed) and its impact on real economic activity (industrial production) and inflation[cite: 10, 14].
+The study focuses on analyzing the macroeconomic response to unexpected changes (shocks) in the United States' monetary policy. Using monthly data from 1985 to 2024, the project empirically verifies the transmission mechanism of the Federal Reserve (Fed) and its impact on real economic activity (industrial production) and inflation.
 
 ## Key Features & Methodology
 * **Vector Autoregression (VAR) & VEC Models**: The analysis transitions from a VAR model on levels to a model on increments to ensure dynamic stability. It also incorporates a Vector Error Correction (VEC) model to analyze long-term equilibrium.
